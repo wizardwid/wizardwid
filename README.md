@@ -91,11 +91,6 @@
 ## ✨ Motto
 
 > "기능 너머의 가치를 설계하는 개발자, 정민경입니다."
+> 
 > 백엔드를 중심으로, 감성적이고 직관적인 사용자 경험까지 고민하는 개발자입니다.
-
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/wizardwid/wizardwid/raw/output/github-contribution-grid-snake.svg" />
-</p>
 
